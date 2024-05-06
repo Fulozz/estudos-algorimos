@@ -1,3 +1,10 @@
+/**
+ * data: 05/05/2024
+ * author: Thiago Silva Andrade
+ * Challenge: https://app.codeforgiants.com/pt_BR/challenges/54bd8d0a-c1b8-4111-9e28-d8c7fd90d369
+ * complexity: O(n) - Algoritmo linear
+ **/
+
 function lengthOfLongestSubstring(s) {
     let charIndicesMap = {};
     let maxLength = 0;
